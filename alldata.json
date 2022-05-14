@@ -2,6 +2,7 @@
   "aboutads": [
     {
       "ADSON": false,
+      "isgoogle" : false,
       "facebookbanner": "715377133248652_715377766581922",
       "facebookinterstitial": "715377133248652_715377836581915",
       "facebooknative": "715377133248652_715377903248575",
@@ -13,9 +14,9 @@
       "maxrewarded": "ffffff",
       "interstitialfrequancy": 1,
       "nativefrequancy": 1,
-      "googlebanner" : "ca-app-pub-3940256099942544/6300978111",
-      "googleinterstitial" : "ca-app-pub-3940256099942544/1033173712",
-      "googlenative" : "ca-app-pub-3940256099942544/2247696110"
+      "googlebanner": "ca-app-pub-3940256099942544/6300978111",
+      "googleinterstitial": "ca-app-pub-3940256099942544/1033173712",
+      "googlenative": "ca-app-pub-3940256099942544/2247696110"
     }
   ]
 }
