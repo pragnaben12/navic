@@ -1,7 +1,7 @@
 {
   "aboutads": [
     {
-      "ADSON": false,
+      "ADSON": true,
       "isgoogle" : false,
       "facebookbanner": "715377133248652_715377766581922",
       "facebookinterstitial": "715377133248652_715377836581915",
