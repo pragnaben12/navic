@@ -2,7 +2,7 @@
   "aboutads": [
     {
       "ADSON": true,
-      "pollfishonornot": true,
+      "pollfishonornot": false,
       "isgoogle": true,
       "facebookbanner": "715377133248652_726987425420956",
       "facebookinterstitial": "715377133248652_726988212087544",
@@ -13,7 +13,7 @@
       "maxinterstitial": "e83684e7968b4428",
       "maxnative": "6fe2a083301f6afb",
       "maxrewarded": "10150143a5a9df9a",
-      "interstitialfrequancy": 2,
+      "interstitialfrequancy": 1,
       "nativefrequancy": 1,
       "googlebanner": "ca-app-pub-6760366163890275/9948964404",
       "googleinterstitial": "ca-app-pub-6760366163890275/8891281023",
